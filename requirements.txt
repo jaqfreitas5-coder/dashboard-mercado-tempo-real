@@ -1,0 +1,33 @@
+# Core (versões compatíveis com Python 3.13)
+fastapi>=0.104.0
+uvicorn>=0.24.0
+streamlit>=1.28.0
+
+# IA & ML (versões mais recentes)
+transformers>=4.35.0
+torch>=2.1.0
+prophet>=1.1.0
+openai>=1.3.0
+textblob>=0.17.0
+
+# Dados & APIs
+yfinance>=0.2.0
+alpha_vantage>=2.3.0
+requests>=2.31.0
+pandas>=2.1.0
+numpy>=1.24.0
+
+# Visualização
+plotly>=5.17.0
+altair>=5.2.0
+streamlit-aggrid>=0.3.0
+streamlit-extras>=0.3.0
+
+# Banco & Cache
+redis>=5.0.0
+celery>=5.3.0
+sqlalchemy>=2.0.0
+
+# Utilitários
+python-dotenv>=1.0.0
+websockets>=12.0
