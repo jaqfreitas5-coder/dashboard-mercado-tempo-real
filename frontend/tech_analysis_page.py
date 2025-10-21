@@ -38,7 +38,7 @@ def analyze_stock(symbol):
     """Faz a análise da ação"""
     with st.spinner(f"📈 Analisando {symbol}..."):
         try:
-            response = requests.get(f"http://localhost:8000/api/tech-analysis/{symbol}")
+            response = requests.get(f"https://dashboard-mercado-tempo-real-production.up.railway.app/api/tech-analysis/{symbol}")
             
             if response.status_code == 200:
                 data = response.json()
