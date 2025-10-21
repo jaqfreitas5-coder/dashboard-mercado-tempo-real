@@ -1,0 +1,16 @@
+Server=tcp:psicoagenda-servidor-jaqueline.database.windows.net,1433;Initial Catalog=psicoagenda-db;Persist Security Info=False;User ID=adminjaque;Password=21579190a@;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+
+
+21579190@Aline senha twilio
+
+
+TEJYJVYU4F8Q8FBTY3CCJMQK cod twilio
+
+
+
+admin@psico.com 
+Senha123!
+
+
+18 id 
